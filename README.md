@@ -14,5 +14,5 @@ pip install matplotlib
 ```
 
 ## OutPut
-[image](https://raw.githubusercontent.com/javierinf/llamados_por_manzana_147/master/outpu.png)
+![image](https://raw.githubusercontent.com/javierinf/llamados_por_manzana_147/master/outpu.png)
 
