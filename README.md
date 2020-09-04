@@ -13,6 +13,6 @@ pip install geopandas
 pip install matplotlib
 ```
 
-## OutPut
+## Output
 ![image](https://raw.githubusercontent.com/javierinf/llamados_por_manzana_147/master/outpu.png)
 
